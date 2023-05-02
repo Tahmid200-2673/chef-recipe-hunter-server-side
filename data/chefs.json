@@ -1,0 +1,309 @@
+[
+    
+      {
+        "id":"0",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL0VzBAF5dr77das68bn-TkR-H-XZx53IyYA&usqp=CAU",
+        "name": "Nasrin Jahan",
+        "experience": 15,
+        "recipes": [
+          {
+            "name": "Bengali Fish Curry",
+            "ingredients": [
+              "500g fish fillets",
+              "1 onion",
+              "2 garlic cloves",
+              "1 tsp turmeric",
+              "1 can chopped tomatoes"
+            ],
+            "cookingMethod": "1. Fry onion and garlic in oil until golden brown. \n2. Add turmeric and fry for 1-2 minutes. \n3. Add fish fillets and fry for 2-3 minutes on each side. \n4. Add chopped tomatoes and simmer for 10-15 minutes. \n5. Serve hot with rice.",
+            "rating": 4.5,
+            "favoriteButton": false
+          },
+          {
+            "name": "Beef Bhuna",
+            "ingredients": [
+              "500g beef, diced",
+              "1 onion",
+              "2 garlic cloves",
+              "1 tsp cumin",
+              "1 can chopped tomatoes"
+            ],
+            "cookingMethod": "1. Fry onion and garlic in oil until golden brown. \n2. Add cumin and fry for 1-2 minutes. \n3. Add beef and fry for 5-10 minutes. \n4. Add chopped tomatoes and simmer for 20-30 minutes. \n5. Serve hot with naan bread.",
+            "rating": 4.2,
+            "favoriteButton": false
+          },
+          {
+            "name": "Prawn Biryani",
+            "ingredients": [
+              "500g prawns",
+              "1 onion",
+              "2 garlic cloves",
+              "1 tsp garam masala",
+              "1 cup basmati rice"
+            ],
+            "cookingMethod": "1. Fry onion and garlic in oil until golden brown. \n2. Add garam masala and fry for 1-2 minutes. \n3. Add prawns and fry for 2-3 minutes. \n4. Cook basmati rice separately. \n5. Combine prawns and rice and bake in the oven at 180°C for 10-15 minutes. \n6. Serve hot with raita.",
+            "rating": 4.8,
+            "favoriteButton": false
+          }
+        ],
+        "likes": 276,
+        "bio": "Nasrin Jahan is a well-known Bangladeshi chef with 15 years of experience. She is known for her flavorful and authentic Bengali dishes."
+      },
+      
+         
+      {
+                "id":"1",
+                "picture": "https://media.cntraveller.in/wp-content/uploads/2020/02/pankaj-Sharma.jpg",
+                "name": "Tariq Rahman",
+                "experience": 10,
+                "recipes": [
+                  {
+                    "name": "Chingri Macher Malaikari",
+                    "ingredients": [
+                      "500g prawns",
+                      "1 onion",
+                      "2 garlic cloves",
+                      "1 tsp cumin",
+                      "1 cup coconut milk"
+                    ],
+                    "cookingMethod": "1. Fry onion and garlic in oil until golden brown. \n2. Add cumin and fry for 1-2 minutes. \n3. Add prawns and fry for 2-3 minutes. \n4. Add coconut milk and simmer for 10-15 minutes. \n5. Serve hot with rice.",
+                    "rating": 4.6,
+                    "favoriteButton": false
+                  },
+                  {
+                    "name": "Kacchi Biriyani",
+                    "ingredients": [
+                      "500g lamb, diced",
+                      "1 onion",
+                      "2 garlic cloves",
+                      "1 tsp garam masala",
+                      "1 cup basmati rice"
+                    ],
+                    "cookingMethod": "1. Marinate lamb in yogurt and spices for 4 hours. \n2. Fry onion and garlic in oil until golden brown. \n3. Add marinated lamb and fry for 5-10 minutes. \n4. Cook basmati rice separately. \n5. Layer lamb and rice in a pot, and bake in the oven at 180°C for 20-25 minutes. \n6. Serve hot with raita.",
+                    "rating": 4.9,
+                    "favoriteButton": false
+                  },
+                  {
+                    "name": "Shorshe Ilish",
+                    "ingredients": [
+                      "500g hilsa fish fillets",
+                      "1 onion",
+                      "2 garlic cloves",
+                      "2 tbsp mustard oil",
+                      "2 tbsp mustard paste"
+                    ],
+                    "cookingMethod": "1. Fry onion and garlic in oil until golden brown. \n2. Add mustard oil and fry for 1-2 minutes. \n3. Add hilsa fish fillets and fry for 2-3 minutes on each side. \n4. Mix mustard paste with water and add to the pan. \n5. Simmer for 10-15 minutes. \n6. Serve hot with rice.",
+                    "rating": 4.7,
+                    "favoriteButton": false
+                  }
+                ],
+                "likes": 423,
+                "bio": "Tariq Rahman is a renowned Bangladeshi chef with 10 years of experience. He specializes in traditional Bengali cuisine, and is known for his unique blend of spices and flavors."
+              },
+              {
+                "id":"2",
+                "picture": "https://images.indulgexpress.com/uploads/user/ckeditor_images/article/2017/3/3/Chef_Megha_Kohli-1_(1).jpg",
+                "name": "Farzana Ahmed",
+                "experience": 12,
+                "recipes": [
+                {
+                "name": "Kosha Mangsho",
+                "ingredients": [
+                "500g lamb, diced",
+                "1 onion",
+                "2 garlic cloves",
+                "1 tsp cumin",
+                "1 cup yogurt"
+                ],
+                "cookingMethod": "1. Marinate lamb in yogurt and spices for 4 hours. \n2. Fry onion and garlic in oil until golden brown. \n3. Add marinated lamb and fry for 5-10 minutes. \n4. Add cumin and fry for 1-2 minutes. \n5. Simmer for 30-40 minutes until lamb is tender. \n6. Serve hot with naan bread.",
+                "rating": 4.4,
+                "favoriteButton": false
+                },
+                {
+                "name": "Chingri Bhorta",
+                "ingredients": [
+                "500g prawns",
+                "1 onion",
+                "2 garlic cloves",
+                "1 tsp turmeric",
+                "2 green chilies"
+                ],
+                "cookingMethod": "1. Boil prawns until cooked. \n2. Fry onion and garlic in oil until golden brown. \n3. Add turmeric and fry for 1-2 minutes. \n4. Mash prawns and add to the pan. \n5. Fry for 5-10 minutes. \n6. Add chopped green chilies and fry for another minute. \n7. Serve hot with rice.",
+                "rating": 4.3,
+                "favoriteButton": false
+                },
+                {
+                "name": "Bhapa Ilish",
+                "ingredients": [
+                "500g hilsa fish fillets",
+                "1 onion",
+                "2 garlic cloves",
+                "1 tsp mustard paste",
+                "1/2 cup coconut milk"
+                ],
+                "cookingMethod": "1. Marinate hilsa fish fillets with mustard paste and salt. \n2. Fry onion and garlic in oil until golden brown. \n3. Layer marinated fish in a pot, and pour coconut milk over it. \n4. Steam for 10-15 minutes until fish is cooked. \n5. Serve hot with steamed rice.",
+                "rating": 4.6,
+                "favoriteButton": false
+                }
+                ],
+                "likes": 312,
+                "bio": "Farzana Ahmed is a talented Bengali chef with 12 years of experience. She is known for her mouth-watering Kosha Mangsho and her creative twists on traditional Bengali dishes."
+                },
+                {
+                  "id":"3",
+                    "picture": "https://2.bp.blogspot.com/-o998QD-SSwE/Vwsz_rQGq1I/AAAAAAAADD4/c2wyShXM42cjiC6hk6CU5EADanK0SLdoQ/s1600/Chef%2Bat%2Bthe%2BBengali%2BFood%2BFestival%2Bat%2BThe%2BFern%2BResidency%252C%2BKolkata%2B-%2B1.JPG",
+                    "name": "Rahim Khan",
+                    "experience": 8,
+                    "recipes": [
+                    {
+                    "name": "Morog Polao",
+                    "ingredients": [
+                    "500g chicken, cut into pieces",
+                    "1 onion",
+                    "2 garlic cloves",
+                    "1 tsp cumin",
+                    "1 cup basmati rice"
+                    ],
+                    "cookingMethod": "1. Fry onion and garlic in oil until golden brown. \n2. Add cumin and fry for 1-2 minutes. \n3. Add chicken pieces and fry for 5-10 minutes. \n4. Cook basmati rice separately. \n5. Layer chicken and rice in a pot, and bake in the oven at 180°C for 20-25 minutes. \n6. Serve hot with raita.",
+                    "rating": 4.5,
+                    "favoriteButton": false
+                    },
+                    {
+                    "name": "Begun Bhaja",
+                    "ingredients": [
+                    "2 eggplants",
+                    "1 tsp turmeric",
+                    "1 tsp red chili powder",
+                    "1 tsp coriander powder",
+                    "1 tsp cumin",
+                    "2 tbsp mustard oil"
+                    ],
+                    "cookingMethod": "1. Cut eggplants into thin slices. \n2. Mix spices with mustard oil. \n3. Marinate eggplant slices in spice mixture for 10-15 minutes. \n4. Fry eggplant slices in oil until crispy. \n5. Serve hot as a side dish.",
+                    "rating": 4.2,
+                    "favoriteButton": false
+                    },
+                    {
+                    "name": "Bhapa Doi",
+                    "ingredients": [
+                    "1 can condensed milk",
+                    "1 cup plain yogurt",
+                    "1 tsp cardamom powder",
+                    "1 tsp rose water",
+                    "1/4 cup chopped pistachios"
+                    ],
+                    "cookingMethod": "1. Mix condensed milk, plain yogurt, cardamom powder, and rose water in a bowl. \n2. Pour the mixture into a greased dish. \n3. Cover the dish with foil and bake in the oven at 180°C for 30-40 minutes. \n4. Sprinkle chopped pistachios on top. \n5. Chill in the refrigerator for at least 1 hour. \n6. Serve cold as a dessert.",
+                    "rating": 4.7,
+                    "favoriteButton": false
+                    }
+                    ],
+                    "likes": 256,
+                    "bio": "Rahim Chowdhury is a passionate Bengali chef with 8 years of experience. He loves experimenting with new flavors and creating unique dishes that satisfy the taste buds of his customers."
+                    },
+                    {
+                      "id":"4",
+                        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDsop1emOPha7WnisAWQirT7p8BdqHNR1cCT8Ld9kHhZGGWXaRqyfhv82aHz0p_6w16HA&usqp=CAU",
+                        "name": "Nusrat Jahan",
+                        "experience": 15,
+                        "recipes": [
+                        {
+                        "name": "Shorshe Ilish",
+                        "ingredients": [
+                        "500g hilsa fish fillets",
+                        "1 onion",
+                        "2 garlic cloves",
+                        "1 tsp mustard paste",
+                        "2 green chilies",
+                        "1/2 cup yogurt"
+                        ],
+                        "cookingMethod": "1. Marinate hilsa fish fillets with mustard paste, yogurt and salt. \n2. Fry onion and garlic in oil until golden brown. \n3. Add marinated fish and fry for 5-10 minutes. \n4. Add chopped green chilies and fry for another minute. \n5. Simmer for 15-20 minutes until fish is cooked. \n6. Serve hot with steamed rice.",
+                        "rating": 4.8,
+                        "favoriteButton": false
+                        },
+                        {
+                        "name": "Chingri Malai Curry",
+                        "ingredients": [
+                        "500g prawns",
+                        "1 onion",
+                        "2 garlic cloves",
+                        "1 tsp turmeric",
+                        "1 cup coconut milk"
+                        ],
+                        "cookingMethod": "1. Fry onion and garlic in oil until golden brown. \n2. Add turmeric and fry for 1-2 minutes. \n3. Add prawns and fry for 5-10 minutes. \n4. Add coconut milk and simmer for 10-15 minutes. \n5. Serve hot with steamed rice.",
+                        "rating": 4.5,
+                        "favoriteButton": false
+                        },
+                        {
+                        "name": "Luchi",
+                        "ingredients": [
+                        "2 cups all-purpose flour",
+                        "1/2 tsp salt",
+                        "1/2 cup warm water",
+                        "1/4 cup vegetable oil",
+                        "Oil for frying"
+                        ],
+                        "cookingMethod": "1. Mix all-purpose flour and salt in a bowl. \n2. Add warm water and vegetable oil, and knead the dough until smooth. \n3. Cover the dough and let it rest for 30 minutes. \n4. Divide the dough into small balls. \n5. Roll out each ball into a circle. \n6. Heat oil in a pan, and fry the circles until golden brown. \n7. Serve hot with your favorite curry.",
+                        "rating": 4.6,
+                        "favoriteButton": false
+                        }
+                        ],
+                        "likes": 421,
+                        "bio": "Nusrat Jahan is a renowned Bengali chef with 15 years of experience. She is known for her mastery of traditional Bengali dishes, especially the Shorshe Ilish and Chingri Malai Curry, which she elevates to a new level with her innovative twists and techniques."
+                        },
+                        
+{
+  "id":"5",
+    "picture": "https://www.ajc.com/resizer/8bt2pJyS5dLCejEtJZxH_TeF_bA=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/72E73AMN6CM5BZ7BZ2FJS42QWQ.jpg",
+    "name": "Sohini Das",
+    "experience": 10,
+    "recipes": [
+    {
+    "name": "Mutton Kosha",
+    "ingredients": [
+    "1 kg mutton, cut into pieces",
+    "1 onion",
+    "2 garlic cloves",
+    "1 inch ginger",
+    "2 bay leaves",
+    "1 tsp cumin",
+    "1 tsp coriander powder",
+    "1 tsp turmeric",
+    "2 tbsp mustard oil"
+    ],
+    "cookingMethod": "1. Marinate mutton pieces with cumin, coriander powder, turmeric, salt and ginger paste for 30 minutes. \n2. Fry onion, garlic and bay leaves in mustard oil until golden brown. \n3. Add marinated mutton and fry for 10-15 minutes. \n4. Add water and cook for 45-50 minutes until mutton is tender. \n5. Serve hot with steamed rice.",
+    "rating": 4.9,
+    "favoriteButton": false
+    },
+    {
+    "name": "Aloo Posto",
+    "ingredients": [
+    "4 potatoes",
+    "1 onion",
+    "2 garlic cloves",
+    "1 tsp turmeric",
+    "1 cup poppy seeds",
+    "2 green chilies",
+    "2 tbsp mustard oil"
+    ],
+    "cookingMethod": "1. Cut potatoes into small pieces and fry in oil until golden brown. \n2. Grind poppy seeds with green chilies. \n3. Fry onion and garlic in oil until golden brown. \n4. Add ground poppy seed paste, turmeric, and salt. \n5. Add fried potatoes and cook for 10-15 minutes. \n6. Serve hot with steamed rice.",
+    "rating": 4.4,
+    "favoriteButton": false
+    },
+    {
+    "name": "Mishti Doi",
+    "ingredients": [
+    "1 liter milk",
+    "1/2 cup sugar",
+    "1/2 cup plain yogurt"
+    ],
+    "cookingMethod": "1. Boil milk and sugar together in a pot. \n2. Let the mixture cool down to lukewarm temperature. \n3. Mix plain yogurt with the milk and sugar mixture. \n4. Pour the mixture into clay pots or any other container. \n5. Cover the pots and keep them in a warm place for 6-8 hours. \n6. Chill in the refrigerator for at least 1 hour. \n7. Serve cold as a dessert.",
+    "rating": 4.7,
+    "favoriteButton": false
+    }
+    ],
+    "likes": 312,
+    "bio": "Sohini Das is a talented Bengali chef with 10 years of experience. She is known for her exquisite Mutton Kosha and Aloo Posto, which she prepares with fresh and locally sourced ingredients, and her signature Mishti Doi, a classic Bengali dessert with a modern twist."
+    } 
+
+  ]
+
+           
