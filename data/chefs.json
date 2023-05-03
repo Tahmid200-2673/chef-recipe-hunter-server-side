@@ -7,6 +7,7 @@
         "experience": 15,
         "recipes": [
           {
+            "recipe_id": "1",
             "name": "Bengali Fish Curry",
             "ingredients": [
               "500g fish fillets",
@@ -20,6 +21,7 @@
             "favoriteButton": false
           },
           {
+            "recipe_id": "2",
             "name": "Beef Bhuna",
             "ingredients": [
               "500g beef, diced",
@@ -33,6 +35,7 @@
             "favoriteButton": false
           },
           {
+            "recipe_id": "3",
             "name": "Prawn Biryani",
             "ingredients": [
               "500g prawns",
@@ -58,6 +61,7 @@
                 "experience": 10,
                 "recipes": [
                   {
+                    "recipe_id": "1",
                     "name": "Chingri Macher Malaikari",
                     "ingredients": [
                       "500g prawns",
@@ -71,6 +75,7 @@
                     "favoriteButton": false
                   },
                   {
+                    "recipe_id": "2",
                     "name": "Kacchi Biriyani",
                     "ingredients": [
                       "500g lamb, diced",
@@ -84,6 +89,7 @@
                     "favoriteButton": false
                   },
                   {
+                    "recipe_id": "3",
                     "name": "Shorshe Ilish",
                     "ingredients": [
                       "500g hilsa fish fillets",
@@ -107,6 +113,7 @@
                 "experience": 12,
                 "recipes": [
                 {
+                  "recipe_id": "1",
                 "name": "Kosha Mangsho",
                 "ingredients": [
                 "500g lamb, diced",
@@ -120,6 +127,7 @@
                 "favoriteButton": false
                 },
                 {
+                  "recipe_id": "2",
                 "name": "Chingri Bhorta",
                 "ingredients": [
                 "500g prawns",
@@ -133,6 +141,7 @@
                 "favoriteButton": false
                 },
                 {
+                  "recipe_id": "3",
                 "name": "Bhapa Ilish",
                 "ingredients": [
                 "500g hilsa fish fillets",
@@ -156,6 +165,7 @@
                     "experience": 8,
                     "recipes": [
                     {
+                      "recipe_id": "1",
                     "name": "Morog Polao",
                     "ingredients": [
                     "500g chicken, cut into pieces",
@@ -169,6 +179,7 @@
                     "favoriteButton": false
                     },
                     {
+                      "recipe_id": "2",
                     "name": "Begun Bhaja",
                     "ingredients": [
                     "2 eggplants",
@@ -183,6 +194,7 @@
                     "favoriteButton": false
                     },
                     {
+                      "recipe_id": "3",
                     "name": "Bhapa Doi",
                     "ingredients": [
                     "1 can condensed milk",
@@ -206,6 +218,7 @@
                         "experience": 15,
                         "recipes": [
                         {
+                          "recipe_id": "1",
                         "name": "Shorshe Ilish",
                         "ingredients": [
                         "500g hilsa fish fillets",
@@ -220,6 +233,7 @@
                         "favoriteButton": false
                         },
                         {
+                          "recipe_id": "2",
                         "name": "Chingri Malai Curry",
                         "ingredients": [
                         "500g prawns",
@@ -233,6 +247,7 @@
                         "favoriteButton": false
                         },
                         {
+                          "recipe_id": "3",
                         "name": "Luchi",
                         "ingredients": [
                         "2 cups all-purpose flour",
@@ -257,6 +272,7 @@
     "experience": 10,
     "recipes": [
     {
+      "recipe_id": "1",
     "name": "Mutton Kosha",
     "ingredients": [
     "1 kg mutton, cut into pieces",
@@ -274,6 +290,7 @@
     "favoriteButton": false
     },
     {
+      "recipe_id": "2",
     "name": "Aloo Posto",
     "ingredients": [
     "4 potatoes",
@@ -289,6 +306,7 @@
     "favoriteButton": false
     },
     {
+      "recipe_id": "3",
     "name": "Mishti Doi",
     "ingredients": [
     "1 liter milk",
